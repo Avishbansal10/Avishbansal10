@@ -34,8 +34,8 @@ I am a passionate software developer currently pursuing my Bachelor of Engineeri
 
 ## 📊 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Avishbansal10&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="195px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Avishbansal10&layout=compact&theme=tokyonight&langs_count=6" height="195px" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Avishbansal10&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="195px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Avishbansal10&layout=compact&theme=tokyonight&langs_count=6" height="195px" alt="Top Languages" />
 </p>
 
 <p align="left">
@@ -45,4 +45,4 @@ I am a passionate software developer currently pursuing my Bachelor of Engineeri
 ---
 
 *Visitor Count:*  
-[![](https://visitcount.itsvg.in/api?id=Avishbansal10&icon=2&color=5)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Avishbansal10&color=00c7b7&style=flat-square)](https://komarev.com/ghpvc/?username=Avishbansal10)
