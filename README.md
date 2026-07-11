@@ -29,20 +29,3 @@ I am a passionate software developer currently pursuing my Bachelor of Engineeri
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
 | **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) |
-
----
-
-## 📊 GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Avishbansal10&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="195px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Avishbansal10&layout=compact&theme=tokyonight&langs_count=6" height="195px" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Avishbansal10&theme=tokyonight" height="195px" alt="GitHub Streak" />
-</p>
-
----
-
-*Visitor Count:*  
-[![](https://komarev.com/ghpvc/?username=Avishbansal10&color=00c7b7&style=flat-square)](https://komarev.com/ghpvc/?username=Avishbansal10)
