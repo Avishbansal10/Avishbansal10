@@ -7,7 +7,7 @@ I am a passionate software developer currently pursuing my Bachelor of Engineeri
 ---
 
 ## 🛠️ What I'm Currently Up To
-- **Developing Sonia Boutique**: Built a raw Node.js backend with Firebase cloud persistence. Check the [Live Application](https://sonia-boutique.onrender.com).
+- **Developing Sonia Boutique**: Built a raw Node.js backend with Firebase cloud persistence. Check the [Live Application](https://soniaboutique.me).
 - **Public Policy Technology**: Completed a 2-month technological policy internship under **National Informatics Centre (NIC), Patiala**.
 - **Cybersecurity Audit**: Participated in the **BOSS OS National Bug Bounty (C-DAC)** auditing India's open-source OS.
 
